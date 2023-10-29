@@ -105,10 +105,3 @@ body {
 	line-height: 1.5;
 	font-size: 1.2rem;
 }
-
-img {
-   position: absolute;
-   top: 50%;
-   left: 50%;
-   transform: translate(-50%, -50%);
-}	
