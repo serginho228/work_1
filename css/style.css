@@ -16,6 +16,7 @@ p{text-indent: 30px;
 .menu{
 	display: flex;
 	list-style: none;
+	flex-wrap: wrap;
 }	
 .menu li{
 	margin-left: 80px;	
